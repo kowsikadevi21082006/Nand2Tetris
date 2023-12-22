@@ -1,4 +1,3 @@
-
 CHIP CPU {
 
     IN  inM[16],         // M value input  (M = contents of RAM[A])
